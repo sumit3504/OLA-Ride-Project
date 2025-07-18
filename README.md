@@ -127,3 +127,18 @@ Box plot or histogram of Driver_Ratings.
 10. Customer vs. Driver Ratings
 Side-by-side bar chart comparing Customer_Rating and Driver_Ratings.
 
+📊 Excel Usage (Data Cleaning)
+Used for cleaning and preparing the dataset
+
+Removed duplicate records
+
+Fixed missing and blank values
+
+Standardized text and labels
+
+Formatted date and time columns correctly
+
+Ensured all data types were correct
+
+Added calculated columns for analysi
+
